@@ -1,0 +1,4 @@
+﻿  arraySpiral.cpp
+c:\users\rohan\documents\visual studio 2010\projects\arrayspiral\arrayspiral\arrayspiral.cpp(54): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+  arraySpiral.vcxproj -> C:\Users\Rohan\Documents\Visual Studio 2010\Projects\arraySpiral\Debug\arraySpiral.exe

@@ -1,0 +1,5 @@
+﻿  mingoGame.cpp
+c:\users\rohan\documents\visual studio 2010\projects\mingogame\mingogame\mingogame.cpp(43): warning C4018: '<' : signed/unsigned mismatch
+c:\users\rohan\documents\visual studio 2010\projects\mingogame\mingogame\mingogame.cpp(120): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+  mingoGame.vcxproj -> C:\Users\Rohan\Documents\Visual Studio 2010\Projects\mingoGame\Debug\mingoGame.exe
