@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arraySpiral", "arraySpiral\arraySpiral.vcxproj", "{DC487BEA-F8C7-40E0-BADA-CDD7ABBE62FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC487BEA-F8C7-40E0-BADA-CDD7ABBE62FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC487BEA-F8C7-40E0-BADA-CDD7ABBE62FF}.Debug|Win32.Build.0 = Debug|Win32
+		{DC487BEA-F8C7-40E0-BADA-CDD7ABBE62FF}.Release|Win32.ActiveCfg = Release|Win32
+		{DC487BEA-F8C7-40E0-BADA-CDD7ABBE62FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
